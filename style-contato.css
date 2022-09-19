@@ -1,0 +1,45 @@
+main {
+    width: 940px;
+    margin: 0 auto;
+}
+
+form {
+    margin: 40px 0;
+}
+
+form label {
+    display:block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+form input {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+header {background: LimeGreen;
+    padding:20px 0;}
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;}
+
+nav li {display: inline; 
+    margin: 0 0 0 15px;
+font-size:24px;}
+footer {
+    text-align: center;
+    background: #000000;
+    padding: 40px 0;}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;}
